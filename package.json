@@ -28,7 +28,7 @@
     "graphql": "^14.5.0",
     "graphql-tag": "^2.10.0",
     "jquery": "^3.4.1",
-    "ngx-markdown": "^8.2.1",
+    "ngx-markdown": "^14.0.0",
     "rxjs": "~6.4.0",
     "tslib": "^1.10.0",
     "uikit": "^3.2.4",
